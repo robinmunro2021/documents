@@ -2,7 +2,7 @@ This repository (available at http://bit.ly/munrodocuments) contains documents a
 
 The book contains the following: obituaries, tributes, Twitter tributes, and a bibliography (usually with links to full text) of Robin's works.
 
-This repository contains the text of an obituary as it appears in the Journal of Comparative Law. The text is identical to the SOAS obituary that appears in the book. It also contains, as separate files, PDF and Word versions of the bibliography. The same material as of July 16, 2021 appears in the book, but it is possible that the bibliography may be slightly updated from time to time if I get new links to full-text versions of various works.
+This repository contains the text of an obituary as it appears in the Journal of Comparative Law. The text is identical to the SOAS obituary that appears in the book. It also contains, as separate files, PDF and Word versions of the bibliography. The same material as of July 16, 2021 appears in the book, but it is possible that the bibliography may be slightly updated from time to time if I get new links to full-text versions of various works. [July 20, 2021: I just added a link to a full-text version of one of the works in the bibliography. This is not reflected in the book version of the bibliography, but is in the separate bibliography document.]
 
 You may purchase a physical copy of the book direct from the printer, Blurb. One version includes a small and unobtrusive Blurb logo on the back of the last page; the other version has no logo but is more expensive. To purchase a copy, go to one of the following links:
 
